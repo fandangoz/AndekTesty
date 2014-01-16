@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cases>
+<case>
+ 	<key>
+ 	    klucz 1
+ 	</key>
+ 	<value>
+ 	    vartosc 1
+ 	</value>
+</case>
+<case>
+  	<key>
+ 	    klucz 2
+ 	</key>
+ 	<value>
+ 	    vartosc 2
+ 	</value>
+</case>
+</cases>
